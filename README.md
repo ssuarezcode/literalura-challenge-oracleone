@@ -23,4 +23,4 @@ Esta aplicación permite gestionar información detallada sobre libros, incluyen
 
 ## Demostración
 
-![Demo GIF]()
+![Demo GIF](https://raw.githubusercontent.com/ssuarezcode/literalura-challenge-oracleone/main/Captura.png)
